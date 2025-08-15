@@ -1,13 +1,13 @@
 {
     "telemetry.sqmId": "",
     "telemetry.machineId": "5decd8cf0921d8e2520ee24316e0d8a830b8e8d3ca8de475bd607318ea8563d6",
-    "telemetry.devDeviceId": "ab0fa4c0-69cd-4050-b4a5-62e69711a14f",
+    "telemetry.devDeviceId": "abd20486-973a-4866-a26d-8df20aba284c",
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1751401098777"
+                "backupFolder": "1755291049495"
             }
         ]
     },
@@ -15,7 +15,7 @@
     "profileAssociations": {
         "workspaces": {},
         "emptyWindows": {
-            "1751401098777": "__default__profile__"
+            "1755291049495": "__default__profile__"
         }
     },
     "theme": "vs-dark",
@@ -43,21 +43,21 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 0,
-            "sideBarWidth": 170,
-            "auxiliarySideBarWidth": 170,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/adithya/.config/Code - OSS/Backups/1751401098777",
+            "backupPath": "/home/adithya/.config/Code - OSS/Backups/1755291049495",
             "uiState": {
                 "mode": 0,
                 "x": 0,
                 "y": 0,
-                "width": 640,
-                "height": 682
+                "width": 800,
+                "height": 862
             }
         },
         "openedWindows": []

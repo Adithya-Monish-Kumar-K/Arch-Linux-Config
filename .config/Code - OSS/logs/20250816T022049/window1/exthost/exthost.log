@@ -1,0 +1,11 @@
+2025-08-16 02:20:49.953 [info] Extension host with pid 55351 started
+2025-08-16 02:20:49.985 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-16 02:20:50.026 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-16 02:20:50.030 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-16 02:20:50.061 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-16 02:20:50.127 [info] Eager extensions activated
+2025-08-16 02:20:50.132 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-16 02:20:50.134 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-16 02:20:50.147 [info] ExtensionService#_doActivateExtension TheHyDEProject.wallbash, startup: false, activationEvent: 'onStartupFinished'
+2025-08-16 02:30:31.484 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-16 02:30:31.492 [info] Extension host with pid 55351 exiting with code 0
