@@ -1,0 +1,6 @@
+[Added Associations]
+text/plain=nvim.desktop;vim.desktop;org.kde.kate.desktop;org.kde.kwrite.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop
+text/plain=nvim.desktop;

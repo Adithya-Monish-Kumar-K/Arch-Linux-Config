@@ -1,0 +1,1 @@
+2025-07-04 21:18:16.667 [error] Failed to set sticky bit on /tmp/adithya-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/adithya-code-oss-zsh'

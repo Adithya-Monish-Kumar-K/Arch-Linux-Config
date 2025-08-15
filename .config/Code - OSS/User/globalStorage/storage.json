@@ -1,0 +1,65 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "5decd8cf0921d8e2520ee24316e0d8a830b8e8d3ca8de475bd607318ea8563d6",
+    "telemetry.devDeviceId": "ab0fa4c0-69cd-4050-b4a5-62e69711a14f",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1751401098777"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1751401098777": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#312830",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#ffffff",
+            "background": "#312830",
+            "editorBackground": "#312830",
+            "titleBarBackground": "#312830",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#52294d",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#52294d",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#312830",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#312830",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 170,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/adithya/.config/Code - OSS/Backups/1751401098777",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 640,
+                "height": 682
+            }
+        },
+        "openedWindows": []
+    }
+}

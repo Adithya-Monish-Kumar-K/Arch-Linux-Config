@@ -1,0 +1,33 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Wallpapers/jpg(7)
+File10[$e]=$HOME/Pictures/Wallpapers/Violet Evergarden.jpg
+File2[$e]=$HOME/Pictures/Wallpapers/jpg(4)
+File3[$e]=$HOME/Pictures/Wallpapers/jpg(6)
+File4[$e]=$HOME/Pictures/Wallpapers/jpg(5)
+File5[$e]=$HOME/Pictures/Wallpapers/jpg(18)
+File6[$e]=$HOME/Pictures/Wallpapers/Raiden Ei.jpg
+File7[$e]=$HOME/Pictures/Wallpapers/Acheron Wallpaper.jpg
+File8[$e]=$HOME/Pictures/Wallpapers/32123.jpg
+File9[$e]=$HOME/Pictures/Wallpapers/Yelan.jpg
+Name1[$e]=jpg(7)
+Name10[$e]=Violet Evergarden.jpg
+Name2[$e]=jpg(4)
+Name3[$e]=jpg(6)
+Name4[$e]=jpg(5)
+Name5[$e]=jpg(18)
+Name6[$e]=Raiden Ei.jpg
+Name7[$e]=Acheron Wallpaper.jpg
+Name8[$e]=32123.jpg
+Name9[$e]=Yelan.jpg
+
+[SideBar]
+InformationSplitterSizes=236,239
+IsVisible ViewMode=true
+SideBarSplitterSizes=204,602

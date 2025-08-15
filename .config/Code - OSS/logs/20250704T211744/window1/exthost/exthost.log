@@ -1,0 +1,14 @@
+2025-07-04 21:17:45.682 [info] Extension host with pid 6634 started
+2025-07-04 21:17:45.706 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-04 21:17:45.736 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-04 21:17:45.738 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-04 21:17:45.744 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-04 21:17:45.785 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-04 21:17:45.835 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-04 21:17:45.868 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-04 21:17:45.936 [info] Eager extensions activated
+2025-07-04 21:17:45.938 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 21:17:45.940 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 21:17:45.952 [info] ExtensionService#_doActivateExtension TheHyDEProject.wallbash, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 21:18:52.216 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-04 21:18:52.223 [info] Extension host with pid 6634 exiting with code 0
